@@ -19,3 +19,11 @@ public class TestGitHub {
     }
     
 }
+
+class People {
+    
+    private int num;
+    private String name;
+    
+   
+}
