@@ -16,6 +16,7 @@ public class TestGitHub {
      */
     public static void main(String[] args) {
         System.out.println("This is written in git");
+        System.out.println("This is branch 1");
     }
     
 }
